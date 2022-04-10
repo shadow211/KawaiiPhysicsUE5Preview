@@ -1,5 +1,7 @@
 # KawaiiPhysicsUE5Preview
-Copy of https://github.com/pafuhana1213/KawaiiPhysics.  Changed API for UE5 Preview
+Copy of https://github.com/pafuhana1213/KawaiiPhysics.  Changed API for UE5.0.0
+
+
 
 In case your preview 2 report it is regeranted by another version, try below
 1.right click on your ".uproject" file,select "generate visual studio files".
