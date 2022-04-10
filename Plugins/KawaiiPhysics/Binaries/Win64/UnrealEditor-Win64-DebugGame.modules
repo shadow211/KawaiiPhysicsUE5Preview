@@ -1,8 +1,0 @@
-{
-	"BuildId": "19206456",
-	"Modules": 
-	{
-		"KawaiiPhysics": "UnrealEditor-KawaiiPhysics-Win64-DebugGame.dll",
-		"KawaiiPhysicsEd": "UnrealEditor-KawaiiPhysicsEd-Win64-DebugGame.dll"
-	}
-}
